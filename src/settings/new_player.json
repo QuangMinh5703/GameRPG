@@ -1,0 +1,9 @@
+{
+  "attrs": {
+    "hp": 10,
+    "atk": 6,
+    "def": 2
+  },
+  "gold": 19,
+  "attack_speed": 1.2
+}

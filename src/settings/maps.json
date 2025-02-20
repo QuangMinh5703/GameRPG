@@ -1,0 +1,14 @@
+{
+  "old_town": {
+    "width": 55,
+    "height": 15,
+    "npcs": {
+      "dark_knight": 8,
+      "yellow_flower": 3,
+      "the_keeper": {
+        "x": 1,
+        "y": 2
+      }
+    }
+  }
+}

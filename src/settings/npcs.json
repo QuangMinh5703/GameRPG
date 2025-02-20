@@ -1,0 +1,57 @@
+{
+  "dark_knight": {
+    "type": "monster",
+    "name": "Dark Knight",
+    "level": 1,
+    "attrs": {
+      "hp": 10,
+      "def": 3,
+      "atk": 2
+    },
+    "exp": 10,
+    "drops": [
+      {
+        "gold": 4,
+        "rate": 70
+      },
+      {
+        "item": 1,
+        "rate": 10
+      },
+      {
+        "item": 2,
+        "rate": 5
+      },
+      {
+        "item": 3,
+        "rate": 5
+      },
+      {
+        "item": 4,
+        "rate": 10
+      }
+    ]
+  },
+  "chicken": {
+    "type": "monster",
+    "name": "Chicken",
+    "level": 1,
+    "attrs": {
+      "hp": 3,
+      "def": 1,
+      "atk": 1
+    },
+    "exp": 2,
+    "drops": {
+      "gold": 1
+    }
+  },
+  "yellow_flower": {
+    "type": "tree",
+    "name": "Yellow Flower"
+  },
+  "the_keeper": {
+    "type": "npc",
+    "name": "Inventory"
+  }
+}

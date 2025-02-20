@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Newbie quest",
+    "type": "kill",
+    "conditions": {
+      "map": "old_town",
+      "monster": "Dark Knight",
+      "require_num": 1,
+      "reward" : {
+        "exp" : 20,
+        "item" : 2
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "The new Collector",
+    "type": "collect",
+    "conditions": {
+      "map": "the_garden",
+      "object": "Yellow Flower",
+      "require_num": 1,
+      "reward" : {
+        "gold" : 5,
+        "item" : 4
+      }
+    }
+  }
+]
